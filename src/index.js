@@ -65,3 +65,5 @@ function killReports() {
 // 👉 TASK 9- [STRETCH] Using the mousemove event on 'document',
 // log to the console the X and Y coordinates
 // of the mouse pointer, as it moves over the screen.
+
+
